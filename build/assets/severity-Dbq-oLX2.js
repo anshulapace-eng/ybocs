@@ -1,0 +1,1 @@
+const r={Subclinical:"#F5C9A6",Mild:"#E89866",Moderate:"#C8612C",Severe:"#8E3A1C",Extreme:"#3F1C0E"};function i(e){return e<=7?"Subclinical":e<=15?"Mild":e<=23?"Moderate":e<=31?"Severe":"Extreme"}export{r as S,i as s};

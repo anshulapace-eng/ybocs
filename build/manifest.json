@@ -1,0 +1,286 @@
+{
+  "_AppLayout-BdNrrNeW.js": {
+    "file": "assets/AppLayout-BdNrrNeW.js",
+    "name": "AppLayout",
+    "imports": [
+      "resources/js/app.jsx",
+      "_flower-2-BPFUOmzA.js"
+    ]
+  },
+  "_BarChart-BD7PMN31.js": {
+    "file": "assets/BarChart-BD7PMN31.js",
+    "name": "BarChart",
+    "imports": [
+      "resources/js/app.jsx",
+      "_AppLayout-BdNrrNeW.js",
+      "_CartesianChart-BviOYgTI.js"
+    ]
+  },
+  "_CartesianChart-BviOYgTI.js": {
+    "file": "assets/CartesianChart-BviOYgTI.js",
+    "name": "CartesianChart",
+    "imports": [
+      "resources/js/app.jsx",
+      "_AppLayout-BdNrrNeW.js"
+    ]
+  },
+  "_LineChart-7J6KyR2_.js": {
+    "file": "assets/LineChart-7J6KyR2_.js",
+    "name": "LineChart",
+    "imports": [
+      "resources/js/app.jsx",
+      "_CartesianChart-BviOYgTI.js",
+      "_AppLayout-BdNrrNeW.js"
+    ]
+  },
+  "_Show-GNWbMpYl.js": {
+    "file": "assets/Show-GNWbMpYl.js",
+    "name": "Show",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_checkbox-Cxt8Si_v.js",
+      "_severity-Dbq-oLX2.js",
+      "_flower-2-BPFUOmzA.js",
+      "_textarea-D8gk_58I.js",
+      "_AppLayout-BdNrrNeW.js",
+      "_arrow-left-DY3c5xqg.js",
+      "_CartesianChart-BviOYgTI.js",
+      "_BarChart-BD7PMN31.js",
+      "_x-o-qutaQB.js"
+    ],
+    "dynamicImports": [
+      "node_modules/html2canvas/dist/html2canvas.esm.js",
+      "node_modules/dompurify/dist/purify.es.mjs",
+      "node_modules/canvg/lib/index.es.js"
+    ]
+  },
+  "_arrow-left-DY3c5xqg.js": {
+    "file": "assets/arrow-left-DY3c5xqg.js",
+    "name": "arrow-left",
+    "imports": [
+      "_flower-2-BPFUOmzA.js"
+    ]
+  },
+  "_check-CilluHo5.js": {
+    "file": "assets/check-CilluHo5.js",
+    "name": "check",
+    "imports": [
+      "resources/js/app.jsx",
+      "_AppLayout-BdNrrNeW.js",
+      "_flower-2-BPFUOmzA.js"
+    ]
+  },
+  "_checkbox-Cxt8Si_v.js": {
+    "file": "assets/checkbox-Cxt8Si_v.js",
+    "name": "checkbox",
+    "imports": [
+      "_flower-2-BPFUOmzA.js",
+      "resources/js/app.jsx",
+      "_check-CilluHo5.js"
+    ]
+  },
+  "_flower-2-BPFUOmzA.js": {
+    "file": "assets/flower-2-BPFUOmzA.js",
+    "name": "flower-2",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_label-Dgka24Zy.js": {
+    "file": "assets/label-Dgka24Zy.js",
+    "name": "label",
+    "imports": [
+      "_flower-2-BPFUOmzA.js",
+      "resources/js/app.jsx",
+      "_check-CilluHo5.js",
+      "_select-CYLIDjL5.js",
+      "_x-o-qutaQB.js",
+      "_AppLayout-BdNrrNeW.js"
+    ]
+  },
+  "_select-CYLIDjL5.js": {
+    "file": "assets/select-CYLIDjL5.js",
+    "name": "select",
+    "imports": [
+      "resources/js/app.jsx",
+      "_check-CilluHo5.js",
+      "_flower-2-BPFUOmzA.js"
+    ]
+  },
+  "_severity-Dbq-oLX2.js": {
+    "file": "assets/severity-Dbq-oLX2.js",
+    "name": "severity"
+  },
+  "_textarea-D8gk_58I.js": {
+    "file": "assets/textarea-D8gk_58I.js",
+    "name": "textarea",
+    "imports": [
+      "resources/js/app.jsx",
+      "_check-CilluHo5.js"
+    ]
+  },
+  "_x-o-qutaQB.js": {
+    "file": "assets/x-o-qutaQB.js",
+    "name": "x",
+    "imports": [
+      "_flower-2-BPFUOmzA.js"
+    ]
+  },
+  "node_modules/canvg/lib/index.es.js": {
+    "file": "assets/index.es-DWWZGIi1.js",
+    "name": "index.es",
+    "src": "node_modules/canvg/lib/index.es.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Show-GNWbMpYl.js",
+      "_checkbox-Cxt8Si_v.js",
+      "_flower-2-BPFUOmzA.js",
+      "_check-CilluHo5.js",
+      "_AppLayout-BdNrrNeW.js",
+      "_severity-Dbq-oLX2.js",
+      "_textarea-D8gk_58I.js",
+      "_arrow-left-DY3c5xqg.js",
+      "_CartesianChart-BviOYgTI.js",
+      "_BarChart-BD7PMN31.js",
+      "_x-o-qutaQB.js"
+    ]
+  },
+  "node_modules/dompurify/dist/purify.es.mjs": {
+    "file": "assets/purify.es-Jn2rvFN8.js",
+    "name": "purify.es",
+    "src": "node_modules/dompurify/dist/purify.es.mjs",
+    "isDynamicEntry": true
+  },
+  "node_modules/html2canvas/dist/html2canvas.esm.js": {
+    "file": "assets/html2canvas.esm-CBrSDip1.js",
+    "name": "html2canvas.esm",
+    "src": "node_modules/html2canvas/dist/html2canvas.esm.js",
+    "isDynamicEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-DmWo095B.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/Pages/Assessments/New.jsx": {
+    "file": "assets/New-rluD51_n.js",
+    "name": "New",
+    "src": "resources/js/Pages/Assessments/New.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_checkbox-Cxt8Si_v.js",
+      "_flower-2-BPFUOmzA.js",
+      "_check-CilluHo5.js",
+      "_AppLayout-BdNrrNeW.js"
+    ]
+  },
+  "resources/js/Pages/Dashboard.jsx": {
+    "file": "assets/Dashboard-IfrMshir.js",
+    "name": "Dashboard",
+    "src": "resources/js/Pages/Dashboard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_severity-Dbq-oLX2.js",
+      "_flower-2-BPFUOmzA.js",
+      "_AppLayout-BdNrrNeW.js",
+      "_CartesianChart-BviOYgTI.js",
+      "_BarChart-BD7PMN31.js"
+    ]
+  },
+  "resources/js/Pages/Login.jsx": {
+    "file": "assets/Login-DI-IzNu3.js",
+    "name": "Login",
+    "src": "resources/js/Pages/Login.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_flower-2-BPFUOmzA.js"
+    ]
+  },
+  "resources/js/Pages/Patients/Index.jsx": {
+    "file": "assets/Index-rXyHyL6G.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Patients/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_severity-Dbq-oLX2.js",
+      "_flower-2-BPFUOmzA.js",
+      "_label-Dgka24Zy.js",
+      "_select-CYLIDjL5.js",
+      "_textarea-D8gk_58I.js",
+      "_AppLayout-BdNrrNeW.js",
+      "_check-CilluHo5.js",
+      "_x-o-qutaQB.js"
+    ]
+  },
+  "resources/js/Pages/Patients/Show.jsx": {
+    "file": "assets/Show-DpZp8wmq.js",
+    "name": "Show",
+    "src": "resources/js/Pages/Patients/Show.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_severity-Dbq-oLX2.js",
+      "_flower-2-BPFUOmzA.js",
+      "_AppLayout-BdNrrNeW.js",
+      "_arrow-left-DY3c5xqg.js",
+      "_CartesianChart-BviOYgTI.js",
+      "_LineChart-7J6KyR2_.js"
+    ]
+  },
+  "resources/js/Pages/Reports.jsx": {
+    "file": "assets/Reports-CDIXHqL0.js",
+    "name": "Reports",
+    "src": "resources/js/Pages/Reports.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_severity-Dbq-oLX2.js",
+      "_flower-2-BPFUOmzA.js",
+      "_select-CYLIDjL5.js",
+      "_AppLayout-BdNrrNeW.js",
+      "_CartesianChart-BviOYgTI.js",
+      "_LineChart-7J6KyR2_.js",
+      "_check-CilluHo5.js"
+    ]
+  },
+  "resources/js/Pages/Therapists.jsx": {
+    "file": "assets/Therapists-D3Y0wcCV.js",
+    "name": "Therapists",
+    "src": "resources/js/Pages/Therapists.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_flower-2-BPFUOmzA.js",
+      "_label-Dgka24Zy.js",
+      "_select-CYLIDjL5.js",
+      "_AppLayout-BdNrrNeW.js",
+      "_check-CilluHo5.js",
+      "_x-o-qutaQB.js"
+    ]
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-4Bg-d37J.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Assessments/New.jsx",
+      "_Show-GNWbMpYl.js",
+      "resources/js/Pages/Dashboard.jsx",
+      "resources/js/Pages/Login.jsx",
+      "resources/js/Pages/Patients/Index.jsx",
+      "resources/js/Pages/Patients/Show.jsx",
+      "resources/js/Pages/Reports.jsx",
+      "resources/js/Pages/Therapists.jsx"
+    ],
+    "css": [
+      "assets/app-DmWo095B.css"
+    ]
+  }
+}
